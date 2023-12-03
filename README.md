@@ -17,3 +17,6 @@ I'm still thinking about in which way I want to take this. I'm thinking I explor
 I've been fighting my code in PyCharm, trying to plot two different pendulums on top of each other with slightly different initial conditions. I also am trying to simulate the triple pendulum. I want to also see if I can trace out the motion of the pendulum.
 
 I've been fighting errors for the past few hours. I'll have the code in the repository by tomorrow (11/25) hopefully. 
+
+### Milestone 3 (12/2/2023)
+I wrote a script that lets me compare two different pendulums and see the error between them. I've generalized the motion of the pendulum to fit into a function. I think I will finish by plotting the distance between the ends of the pendulum against the difference in initial conditions. I'll have a bunch of different scripts and images done in the next few days. I'll add all my plots to the presentation as well. 
