@@ -20,3 +20,4 @@ I've been fighting errors for the past few hours. I'll have the code in the repo
 
 ### Milestone 3 (12/2/2023)
 I wrote a script that lets me compare two different pendulums and see the error between them. I've generalized the motion of the pendulum to fit into a function. I think I will finish by plotting the distance between the ends of the pendulum against the difference in initial conditions. I'll have a bunch of different scripts and images done in the next few days. I'll add all my plots to the presentation as well. 
+https://docs.google.com/presentation/d/1ImTKsA4iOFMFbpgbganmPuCq_QyqLenp_ltUcJIkXCs/edit?usp=sharing 
