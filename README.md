@@ -18,6 +18,8 @@ I've been fighting my code in PyCharm, trying to plot two different pendulums on
 
 I've been fighting errors for the past few hours. For some reason, the code runs into overflow errors at high timespans or initial conditions that aren't "well-behaved." I'll have the code in the repository by tomorrow (11/25) hopefully. 
 
+I have a weird dualism when GPT helps me with code. There's two things that happen. Either it codes up a function for me, and I spend a while finding all the errors and fixing them, or I write a function or two and GPT tells me why it's wrong, which is slightly amusing.
+
 ### Milestone 3 (12/2/2023)
 I wrote a script that lets me compare two different pendulums and see the error between them. I've generalized the motion of the pendulum to fit into a function, and I think I will finish by plotting the distance between the ends of the pendulum against the difference in initial conditions. It's just a simple script that calculates the distance between to corresponding set of coordinates. I'll have a bunch of different scripts and images done in the next few days. I'll add all my plots to the presentation as well. 
 
