@@ -14,12 +14,12 @@ I've done the basics. I have a simple python code that plays out the animation o
 I'm still thinking about in which way I want to take this. I'm thinking I explore the differing effects of different initial conditions, and maybe finding a metric in which I can track the pendulum's divergence from a normal mode. 
 
 ### Milestone 2 (11/24/2023)
-I've been fighting my code in PyCharm, trying to plot two different pendulums on top of each other with slightly different initial conditions. I also am trying to simulate the triple pendulum. I also am able to trace out the motion of the pendulum. It's hypnotic. I probably spent too long watching different configurations go.
+I've been fighting my code in PyCharm, trying to plot two different pendulums on top of each other with slightly different initial conditions. I also am trying to simulate the triple pendulum. I also am able to trace out the motion of the pendulum. It's hypnotic. I probably spent too long watching different configurations go. It's a simple process, using the scipy module "solve_ivp" which just generates a string of coordinates. 
 
 I've been fighting errors for the past few hours. For some reason, the code runs into overflow errors at high timespans or initial conditions that aren't "well-behaved." I'll have the code in the repository by tomorrow (11/25) hopefully. 
 
 ### Milestone 3 (12/2/2023)
-I wrote a script that lets me compare two different pendulums and see the error between them. I've generalized the motion of the pendulum to fit into a function. I think I will finish by plotting the distance between the ends of the pendulum against the difference in initial conditions. I'll have a bunch of different scripts and images done in the next few days. I'll add all my plots to the presentation as well. 
+I wrote a script that lets me compare two different pendulums and see the error between them. I've generalized the motion of the pendulum to fit into a function, and I think I will finish by plotting the distance between the ends of the pendulum against the difference in initial conditions. It's just a simple script that calculates the distance between to corresponding set of coordinates. I'll have a bunch of different scripts and images done in the next few days. I'll add all my plots to the presentation as well. 
 
 The simulation still takes quite a while to run, but that's because to make the gifs used in the presentation it has to compute every frame then add them to the simulation.
 
