@@ -31,3 +31,5 @@ https://docs.google.com/presentation/d/1ImTKsA4iOFMFbpgbganmPuCq_QyqLenp_ltUcJIk
 I'm seeing what a few more things I can do with the simulation, maybe something like adding constraints to the system (such as in the arm) or integrating the differences between different pendulums to see if there are any cool patterns there. 
 
 This project + this class was a lot of fun. Thanks!
+
+References: Mainly just the Wikipedia page: https://en.wikipedia.org/wiki/Double_pendulum 
