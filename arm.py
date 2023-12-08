@@ -1,3 +1,7 @@
+#the assumptions I make about the arm as a double pendulum aren't correct. 
+#I just assumed that there would be a driving force (as in while running) and a constraint where the forearm would bounce back after hitting a straight line. 
+#It's just a proof of concept that can be changed as much as I want.
+
 import numpy as np
 from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
